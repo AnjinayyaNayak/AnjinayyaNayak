@@ -14,7 +14,7 @@ I specialize in transforming raw data into clear, actionable insights through an
 
 ---
 
-## Technical Skills
+## 🛠️ Technical Skills
 - **Languages:** Python, SQL  
 - **BI & Visualization:** Power BI, Tableau, Looker Studio  
 - **Data Analysis:** Excel, Pandas, NumPy  
@@ -24,7 +24,7 @@ I specialize in transforming raw data into clear, actionable insights through an
 
 ---
 
-## Certifications
+## 🏆 Certifications
 🥇 **Data Analytics Job Simulation** - Deloitte Australia <br>
 🥇 **Tableau Fundamentals** – Tableau  
 🥇 **Python for Data Science** – IBM  
