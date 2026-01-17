@@ -15,12 +15,12 @@ I specialize in transforming raw data into clear, actionable insights through an
 ---
 
 ## 🛠️ Technical Skills
-- **Languages:** Python, SQL  
-- **BI & Visualization:** Power BI, Tableau, Looker Studio  
-- **Data Analysis:** Excel, Pandas, NumPy  
-- **Databases:** MySQL  
-- **Concepts:** Data Cleaning, EDA, KPI Analysis, Reporting, Dashboard Design  
-- **Analytics Skills:** Business Analysis, Trend Analysis, Data Storytelling 
+🐍 **Languages:** Python, SQL  
+📉 **BI & Visualization:** Power BI, Tableau, Looker Studio  
+🧠 **Data Analysis:** Excel, Pandas, NumPy  
+🛢️ **Databases:** MySQL  
+📑 **Concepts:** Data Cleaning, EDA, KPI Analysis, Reporting, Dashboard Design  
+📈 **Analytics Skills:** Business Analysis, Trend Analysis, Data Storytelling 
 
 ---
 
