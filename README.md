@@ -35,7 +35,10 @@
 ## 📌 Projects
 - 📊 **Bank Customer Churn Analysis (Power BI)**  
 - 🎬 **Netflix Data Insights (Tableau)**  
-- 📈 **Sales Performance Dashboard (Looker Studio)**  
+- 📈 **Sales Performance Dashboard (Looker Studio)**
+- 📈 **HR Analytics Dashboard (Tableau)**
+- 📈 **Bihar 2025 Election Analytics (Power BI)**
+- 📊 **Cricket Career Insights (Power BI)**
 
 ➡️ Check my repositories for project code & dashboards.
 
