@@ -1,6 +1,6 @@
 # Hi, I'm Anjinayya 👋
 
-**Data Analyst | Power BI | SQL | Python | Data Visualization**
+**Power BI | SQL | Python | Data Visualization | Analytics**
 
 I specialize in transforming raw data into clear, actionable insights through analytics, dashboards, and storytelling.
 
