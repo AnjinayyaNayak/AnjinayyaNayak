@@ -30,6 +30,7 @@
 - 🏅 Tableau Fundamentals – Tableau
 - 🏅 Python for Data Science – IBM
 - 🏅 Cisco – Data Analytics Essentials
+- 🏅 IBM – Data Fundamentals
 
 ---
 
@@ -48,6 +49,7 @@
 ## 🌐 Connect with Me
 - 🔗 LinkedIn: https://www.linkedin.com/in/anjinayya-nayak-0936a5340/
 - 🌐 Portfolio: https://anjinayya-nayak-ri4qmiw.gamma.site/
+- 🌐 HackerRank: https://www.hackerrank.com/profile/AnjinayyaNayak
 - 📧 Email: anjineynyk@gmail.com
 
 ---
