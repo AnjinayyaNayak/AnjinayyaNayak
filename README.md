@@ -25,22 +25,22 @@ I specialize in transforming raw data into clear, actionable insights through an
 ---
 
 ## Certifications
-- **Data Analytics Job Simulation** - Deloitte Australia
-- **SQL (Advanced)** – HackerRank  
-- **Tableau Fundamentals** – Tableau  
-- **Python for Data Science** – IBM  
-- **Data Analytics Essentials** – Cisco  
-- **Data Fundamentals** – IBM  
+🥇 **Data Analytics Job Simulation** - Deloitte Australia
+🥇 **SQL (Advanced)** – HackerRank  
+🥇 **Tableau Fundamentals** – Tableau  
+🥇 **Python for Data Science** – IBM  
+🥇 **Data Analytics Essentials** – Cisco  
+🥇 **Data Fundamentals** – IBM  
 
 ---
 
-## Selected Projects
-- **Bank Customer Churn Analysis** – Power BI  
-- **Netflix Data Insights** – Tableau  
-- **Sales Performance Dashboard** – Looker Studio  
-- **HR Analytics Dashboard** – Tableau  
-- **Bihar 2025 Election Analytics** – Power BI  
-- **Cricket Career Insights** – Power BI  
+## 📊 Projects
+🔷 **Bank Customer Churn Analysis** – Power BI  
+📈 **Netflix Data Insights** – Tableau  
+📉 **Sales Performance Dashboard** – Looker Studio  
+📊 **HR Analytics Dashboard** – Tableau  
+🔷 **Bihar 2025 Election Analytics** – Power BI  
+🔷 **Cricket Career Insights** – Power BI  
 
 ---
 
