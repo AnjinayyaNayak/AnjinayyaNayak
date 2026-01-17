@@ -1,16 +1,52 @@
-## Hi there 👋
+# Hi there, I'm Anjinayya 👋  
 
-<!--
-**AnjinayyaNayak/AnjinayyaNayak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Data Analyst | Power BI | SQL | Python | Data Visualization
 
-Here are some ideas to get you started:
+🚀 Passionate about turning raw data into meaningful insights through analytics and storytelling.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+- 🎓 Master’s in Computer Science  
+- 📊 Hands-on experience with **Power BI, SQL, Python, Excel, Tableau**
+- 🧹 Strong in **data cleaning, EDA, and dashboard development**
+- 📈 Interested in **business analytics, product analytics & BI**
+
+---
+
+## 🛠️ Tech Stack
+- **Languages:** Python, SQL  
+- **BI Tools:** Power BI, Tableau  
+- **Data:** Excel, Pandas, NumPy  
+- **Visualization:** Power BI, Tableau, Matplotlib  
+- **Databases:** MySQL  
+
+---
+---
+## 📜 Certifications
+- 🏅 Deloitte Australia – Data Analytics Job Simulation (Forage)
+- 🏅 SQL (Advanced) – HackerRank
+- 🏅 Tableau Fundamentals – Tableau
+- 🏅 Python for Data Science – IBM
+- 🏅 Cisco – Data Analytics Essentials
+
+---
+
+## 📌 Projects
+- 📊 **Bank Customer Churn Analysis (Power BI)**  
+- 🎬 **Netflix Data Insights (Tableau)**  
+- 📈 **Sales Performance Dashboard (Looker Studio)**  
+
+➡️ Check my repositories for project code & dashboards.
+
+---
+
+## 🌐 Connect with Me
+- 🔗 LinkedIn: https://www.linkedin.com/in/anjinayya-nayak-0936a5340/
+- 🌐 Portfolio: https://anjinayya-nayak-ri4qmiw.gamma.site/
+- 📧 Email: anjineynyk@gmail.com
+
+---
+
+⭐ *Always learning. Always improving.*
+
