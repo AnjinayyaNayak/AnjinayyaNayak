@@ -7,10 +7,10 @@ I specialize in transforming raw data into clear, actionable insights through an
 ---
 
 ## About Me
-- 🎓 Master’s in Computer Science  
-- 📊 Hands-on experience in **Power BI, SQL, Python, Excel, and Tableau**  
-- 🧹 Strong in **data cleaning, EDA, and dashboard development**  
-- 📈 Interested in **business analytics, product analytics, and BI**
+🎓 Master’s in Computer Science  
+📊 Hands-on experience in **Power BI, SQL, Python, Excel, and Tableau**  
+🧹 Strong in **data cleaning, EDA, and dashboard development**  
+📈 Interested in **business analytics, product analytics, and BI**
 
 ---
 
@@ -45,10 +45,10 @@ I specialize in transforming raw data into clear, actionable insights through an
 ---
 
 ## 🌐 Connect with Me
-- 💼 LinkedIn: https://www.linkedin.com/in/anjinayya-nayak-0936a5340/
-- 🌐 Portfolio: https://anjinayya-nayak-ri4qmiw.gamma.site/
-- 🌐 HackerRank: https://www.hackerrank.com/profile/AnjinayyaNayak
-- 📧 Email: anjineynyk@gmail.com
+💼 LinkedIn: https://www.linkedin.com/in/anjinayya-nayak-0936a5340/
+🌐 Portfolio: https://anjinayya-nayak-ri4qmiw.gamma.site/
+🌐 HackerRank: https://www.hackerrank.com/profile/AnjinayyaNayak
+📧 Email: anjineynyk@gmail.com
 
 ---
 
