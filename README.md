@@ -9,8 +9,8 @@ I specialize in transforming raw data into clear, actionable insights through an
 ## About Me
 🎓 Master’s in Computer Science  
 📊 Hands-on experience in **Power BI, SQL, Python, Excel, and Tableau**  
-🧹 Strong in **data cleaning, EDA, and dashboard development**  
-📈 Interested in **business analytics, product analytics, and BI**
+🧹 Strong in **Data Cleaning, EDA, and Dashboard Development**  
+📈 Interested in **Business Analytics, Product Analytics, and BI**
 
 ---
 
