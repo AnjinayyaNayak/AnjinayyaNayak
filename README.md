@@ -1,48 +1,46 @@
-# Hi there, I'm Anjinayya 👋  
+# Hi, I'm Anjinayya 👋
 
-### Data Analyst | Power BI | SQL | Python | Data Visualization
+**Data Analyst | Power BI | SQL | Python | Data Visualization**
 
-🚀 Passionate about turning raw data into meaningful insights through analytics and storytelling.
+I specialize in transforming raw data into clear, actionable insights through analytics, dashboards, and storytelling.
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 - 🎓 Master’s in Computer Science  
-- 📊 Hands-on experience with **Power BI, SQL, Python, Excel, Tableau**
-- 🧹 Strong in **data cleaning, EDA, and dashboard development**
-- 📈 Interested in **business analytics, product analytics & BI**
+- 📊 Hands-on experience in **Power BI, SQL, Python, Excel, and Tableau**  
+- 🧹 Strong in **data cleaning, EDA, and dashboard development**  
+- 📈 Interested in **business analytics, product analytics, and BI**
 
 ---
 
-## 🛠️ Tech Stack
+## Technical Skills
 - **Languages:** Python, SQL  
-- **BI Tools:** Power BI, Tableau, Looker Studio  
+- **BI & Visualization:** Power BI, Tableau, Looker Studio  
 - **Data Analysis:** Excel, Pandas, NumPy  
-- **Visualization:** Power BI, Tableau, Matplotlib  
-- **Databases:** MySQL, SQL  
-  
-
----
----
-## 📜 Certifications
-- 🏅 Deloitte Australia – Data Analytics Job Simulation (Forage)
-- 🏅 SQL (Advanced) – HackerRank
-- 🏅 Tableau Fundamentals – Tableau
-- 🏅 Python for Data Science – IBM
-- 🏅 Cisco – Data Analytics Essentials
-- 🏅 IBM – Data Fundamentals
+- **Databases:** MySQL  
+- **Concepts:** Data Cleaning, EDA, KPI Analysis, Reporting, Dashboard Design  
+- **Analytics Skills:** Business Analysis, Trend Analysis, Data Storytelling 
 
 ---
 
-## 📌 Projects
-- 📊 **Bank Customer Churn Analysis (Power BI)**  
-- 🎬 **Netflix Data Insights (Tableau)**  
-- 📈 **Sales Performance Dashboard (Looker Studio)**
-- 📈 **HR Analytics Dashboard (Tableau)**
-- 📈 **Bihar 2025 Election Analytics (Power BI)**
-- 📊 **Cricket Career Insights (Power BI)**
+## Certifications
+- **Data Analytics Job Simulation** - Deloitte Australia
+- **SQL (Advanced)** – HackerRank  
+- **Tableau Fundamentals** – Tableau  
+- **Python for Data Science** – IBM  
+- **Data Analytics Essentials** – Cisco  
+- **Data Fundamentals** – IBM  
 
-➡️ Check my repositories for project code & dashboards.
+---
+
+## Selected Projects
+- **Bank Customer Churn Analysis** – Power BI  
+- **Netflix Data Insights** – Tableau  
+- **Sales Performance Dashboard** – Looker Studio  
+- **HR Analytics Dashboard** – Tableau  
+- **Bihar 2025 Election Analytics** – Power BI  
+- **Cricket Career Insights** – Power BI  
 
 ---
 
