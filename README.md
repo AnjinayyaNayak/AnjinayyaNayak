@@ -45,9 +45,9 @@ I specialize in transforming raw data into clear, actionable insights through an
 ---
 
 ## 🌐 Connect with Me
-💼 LinkedIn: https://www.linkedin.com/in/anjinayya-nayak-0936a5340/
-🌐 Portfolio: https://anjinayya-nayak-ri4qmiw.gamma.site/
-🌐 HackerRank: https://www.hackerrank.com/profile/AnjinayyaNayak
+💼 LinkedIn: https://www.linkedin.com/in/anjinayya-nayak-0936a5340/  <br>
+🌐 Portfolio: https://anjinayya-nayak-ri4qmiw.gamma.site/   <br>
+🌐 HackerRank: https://www.hackerrank.com/profile/AnjinayyaNayak <br>
 📧 Email: anjineynyk@gmail.com
 
 ---
