@@ -16,10 +16,11 @@
 
 ## 🛠️ Tech Stack
 - **Languages:** Python, SQL  
-- **BI Tools:** Power BI, Tableau  
-- **Data:** Excel, Pandas, NumPy  
+- **BI Tools:** Power BI, Tableau, Looker Studio  
+- **Data Analysis:** Excel, Pandas, NumPy  
 - **Visualization:** Power BI, Tableau, Matplotlib  
-- **Databases:** MySQL  
+- **Databases:** MySQL, SQL  
+  
 
 ---
 ---
