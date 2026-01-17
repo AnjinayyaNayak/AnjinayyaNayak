@@ -25,12 +25,12 @@ I specialize in transforming raw data into clear, actionable insights through an
 ---
 
 ## Certifications
-🥇 **Data Analytics Job Simulation** - Deloitte Australia
-🥇 **SQL (Advanced)** – HackerRank  
+🥇 **Data Analytics Job Simulation** - Deloitte Australia 
 🥇 **Tableau Fundamentals** – Tableau  
 🥇 **Python for Data Science** – IBM  
 🥇 **Data Analytics Essentials** – Cisco  
 🥇 **Data Fundamentals** – IBM  
+🥇 **SQL (Advanced)** – HackerRank 
 
 ---
 
