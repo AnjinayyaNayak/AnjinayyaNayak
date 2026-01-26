@@ -1,12 +1,12 @@
-<h1 align="center" style="font-family:Segoe UI, sans-serif;">
+<h1 align="" style="font-family:Segoe UI, sans-serif;">
   Hi, I'm <span style="color:#4F46E5;">Anjinayya</span> 👋
 </h1>
 
-<h3 align="center" style="font-weight:500; color:#374151;">
+<h3 align="" style="font-weight:500; color:#374151;">
   📊 Data Analyst | Business Intelligence | Data Visualization
 </h3>
 
-<p align="center" style="max-width:800px; margin:auto; font-size:15px;">
+<p align="" style="max-width:800px; margin:auto; font-size:15px;">
 🚀 I transform raw data into <b>clear, actionable insights</b> using analytics, dashboards, and data storytelling.<br>
 🎯 Passionate about <b>Business Analytics, Product Analytics, and BI solutions</b>.
 </p>
@@ -32,7 +32,7 @@
 | Relational Databases | Data Cleaning | Tableau | SQL | Pandas |
 |  | KPI & Metrics Analysis | Looker Studio |  | NumPy |
 |  | Trend Analysis |  |  | Power Query |
-|  | Data Storytelling |  |  | Git |
+|  | Data Storytelling |  |  |  |
 
 
 <h2>🏆 Certifications</h2>
