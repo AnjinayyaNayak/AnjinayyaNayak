@@ -26,13 +26,14 @@
 
 ## 🛠️ Technical Skills
 
-| Databases | Data Analysis | BI & Visualization | Programming | Tools |
-|----------|--------------|-------------------|-------------|-------|
+| Databases & Querying | Data Analysis | BI & Visualization | Programming | Tools |
+|---------------------|--------------|-------------------|-------------|-------|
 | MySQL | Exploratory Data Analysis (EDA) | Power BI | Python | Excel |
-| Relational Databases | Data Cleaning | Tableau | SQL | Pandas |
-| Databricks | KPI & Metrics Analysis | Looker Studio |  | NumPy |
-|  | Trend Analysis |  |  | Power Query |
+| SQL | Data Cleaning | Tableau | Java | Pandas |
+| Relational Databases | KPI & Metrics Analysis | Looker Studio |  | NumPy |
+| Databricks SQL | Trend Analysis |  |  | Power Query |
 |  | Data Storytelling |  |  | Databricks |
+
 
 
 ---
@@ -40,8 +41,8 @@
 
 | | |
 |---|---|
-| 🥇 **Google Data Analytics Certification** *(Google Skillshop)* | 🥇 **Data Fundamentals - IBM** |
-| 🥇 **Databricks Platform Architect** – AWS & Azure *(Databricks Academy)* | 🥇 **Data Analytics Essentials - Cisco** |
+| 🥇 **Google Data Analytics Certification** - Google Skillshop | 🥇 **Data Fundamentals - IBM** |
+| 🥇 **Databricks Platform Architect** – Databricks Academy | 🥇 **Data Analytics Essentials - Cisco** |
 | 🥇 **Python for Data Science** – IBM | 🥇 **SQL Analytics & Data Engineering - Databricks** |
 | 🥇 **SQL (Advanced)** – HackerRank | 🥇 **Data Visualization using Python - Infosys** |
 | 🥇 **Tableau Fundamentals & Dashboards** – Tableau | 🥇 **Developer & Technology Job Simulation - Accenture UK** |
