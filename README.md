@@ -46,7 +46,7 @@
       <td></td>
     </tr>
 
-    <tr>
+  <tr>
       <td style="padding:8px; border:1px solid #ddd; text-align:left;">SQL</td>
       <td></td>
       <td></td>
@@ -54,7 +54,7 @@
       <td>✔️</td>
     </tr>
 
-    <tr style="background-color:#E9F7EF;">
+   <tr style="background-color:#E9F7EF;">
       <td style="padding:8px; border:1px solid #ddd; text-align:left;">Power BI</td>
       <td></td>
       <td></td>
@@ -70,7 +70,7 @@
       <td></td>
     </tr>
 
-    <tr style="background-color:#E9F7EF;">
+  <tr style="background-color:#E9F7EF;">
       <td style="padding:8px; border:1px solid #ddd; text-align:left;">Looker Studio</td>
       <td></td>
       <td>✔️</td>
@@ -78,7 +78,7 @@
       <td></td>
     </tr>
 
-    <tr>
+  <tr>
       <td style="padding:8px; border:1px solid #ddd; text-align:left;">Excel</td>
       <td></td>
       <td></td>
@@ -86,7 +86,7 @@
       <td>✔️</td>
     </tr>
 
-    <tr style="background-color:#E9F7EF;">
+  <tr style="background-color:#E9F7EF;">
       <td style="padding:8px; border:1px solid #ddd; text-align:left;">Data Cleaning & EDA</td>
       <td></td>
       <td></td>
@@ -94,7 +94,7 @@
       <td>✔️</td>
     </tr>
 
-    <tr>
+  <tr>
       <td style="padding:8px; border:1px solid #ddd; text-align:left;">Dashboard Design</td>
       <td></td>
       <td></td>
@@ -102,7 +102,7 @@
       <td>✔️</td>
     </tr>
 
-    <tr style="background-color:#E9F7EF;">
+   <tr style="background-color:#E9F7EF;">
       <td style="padding:8px; border:1px solid #ddd; text-align:left;">KPI & Business Analytics</td>
       <td></td>
       <td></td>
@@ -110,7 +110,7 @@
       <td>✔️</td>
     </tr>
 
-    <tr>
+   <tr>
       <td style="padding:8px; border:1px solid #ddd; text-align:left;">MySQL</td>
       <td></td>
       <td>✔️</td>
