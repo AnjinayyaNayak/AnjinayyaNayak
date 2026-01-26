@@ -34,6 +34,19 @@
 |  | Trend Analysis |  |  | Power Query |
 |  | Data Storytelling |  |  |  |
 
+---
+
+---
+
+## 🏆 Certifications
+
+### ⭐ Top / Core Certifications
+- 🥇 **Google Data Analytics Certification** *(Skillshop – Valid 2026–2027)*
+- 🥇 **Databricks Platform Architect** – AWS & Azure *(Databricks Academy)*
+- 🥇 **Python for Data Science** – IBM
+- 🥇 **SQL (Advanced)** – HackerRank
+- 🥇 **Tableau Fundamentals & Dashboards** – Tableau
+- 🥇 **Data Analytics Job Simulation** – Deloitte Australia
 
 ### 📌 Additional Certifications
 - IBM Data Fundamentals  
