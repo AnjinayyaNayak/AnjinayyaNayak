@@ -35,16 +35,18 @@
 |  | Data Storytelling |  |  |  |
 
 ---
-
 ## 🏆 Certifications
 
-### ⭐ Top / Core Certifications                                                                                                              
-- 🥇 **Google Data Analytics Certification** *(Skillshop – Valid 2026–2027)*                            🥇 IBM Data Fundamentals
-- 🥇 **Databricks Platform Architect** – AWS & Azure *(Databricks Academy)*                             🥇 Cisco Data Analytics Essentials
-- 🥇 **Python for Data Science** – IBM                                                                  🥇 Databricks SQL Analytics & Data Engineering  
-- 🥇 **SQL (Advanced)** – HackerRank                                                                    🥇 Infosys Data Visualization using Python
-- 🥇 **Tableau Fundamentals & Dashboards** – Tableau                                                    🥇 Accenture UK Developer & Technology Job Simulation
-- 🥇 **Data Analytics Job Simulation** – Deloitte Australia                                             🥇 Business Analyst - Unqork 
+### ⭐ Top / Core Certifications
+
+| | |
+|---|---|
+| 🥇 **Google Data Analytics Certification** *(Skillshop – Valid 2026–2027)* | 🥇 **IBM Data Fundamentals** |
+| 🥇 **Databricks Platform Architect** – AWS & Azure *(Databricks Academy)* | 🥇 **Cisco Data Analytics Essentials** |
+| 🥇 **Python for Data Science** – IBM | 🥇 **Databricks SQL Analytics & Data Engineering** |
+| 🥇 **SQL (Advanced)** – HackerRank | 🥇 **Infosys Data Visualization using Python** |
+| 🥇 **Tableau Fundamentals & Dashboards** – Tableau | 🥇 **Accenture UK Developer & Technology Job Simulation** |
+| 🥇 **Data Analytics Job Simulation** – Deloitte Australia | 🥇 **Business Analyst – Unqork** |
 
 ---
 
