@@ -17,22 +17,33 @@
 
 ## 🛠️ Technical Skills
 
-### 💻 Programming & Querying
-`Python` `SQL`
+### 🐍 Programming & Querying
+- **Python** (Pandas, NumPy, Matplotlib)
+- **SQL** (Advanced queries, joins, CTEs, subqueries)
 
 ### 📊 BI & Data Visualization
-`Power BI` `Tableau` `Looker Studio`
+- **Power BI** (DAX, Power Query, Interactive Dashboards)
+- **Tableau**
+- **Looker Studio**
 
 ### 🧠 Data Analysis
-`Excel` `Pandas` `NumPy` `EDA` `KPI Analysis`
+- Exploratory Data Analysis (EDA)
+- KPI & Metrics Analysis
+- Trend & Forecast Analysis
+- Data Storytelling
 
 ### 🛢️ Databases
-`MySQL`
+- MySQL
+- Relational Databases
 
-### ⚙️ Concepts & Tools
-`Data Cleaning` `Data Validation` `Dashboard Design`  
-`Business Analytics` `Trend Analysis` `Data Storytelling`
+### ⚙️ Tools & Concepts
+- Excel (Advanced formulas, Pivot Tables)
+- Data Cleaning & Validation
+- Reporting & Dashboard Design
+- Business & Product Analytics
+
 ---
+
 ## 🏆 Certifications
 
 ### ⭐ Top / Core Certifications
