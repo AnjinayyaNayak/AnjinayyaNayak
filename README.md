@@ -30,22 +30,21 @@
 |----------|--------------|-------------------|-------------|-------|
 | MySQL | Exploratory Data Analysis (EDA) | Power BI | Python | Excel |
 | Relational Databases | Data Cleaning | Tableau | SQL | Pandas |
-|  | KPI & Metrics Analysis | Looker Studio |  | NumPy |
+| Databricks | KPI & Metrics Analysis | Looker Studio |  | NumPy |
 |  | Trend Analysis |  |  | Power Query |
-|  | Data Storytelling |  |  |  |
+|  | Data Storytelling |  |  | Databricks |
+
 
 ---
 ## 🏆 Certifications
 
-### ⭐ Top / Core Certifications
-
 | | |
 |---|---|
-| 🥇 **Google Data Analytics Certification** *(Skillshop – Valid 2026–2027)* | 🥇 **IBM Data Fundamentals** |
-| 🥇 **Databricks Platform Architect** – AWS & Azure *(Databricks Academy)* | 🥇 **Cisco Data Analytics Essentials** |
-| 🥇 **Python for Data Science** – IBM | 🥇 **Databricks SQL Analytics & Data Engineering** |
-| 🥇 **SQL (Advanced)** – HackerRank | 🥇 **Infosys Data Visualization using Python** |
-| 🥇 **Tableau Fundamentals & Dashboards** – Tableau | 🥇 **Accenture UK Developer & Technology Job Simulation** |
+| 🥇 **Google Data Analytics Certification** *(Google Skillshop)* | 🥇 **Data Fundamentals - IBM** |
+| 🥇 **Databricks Platform Architect** – AWS & Azure *(Databricks Academy)* | 🥇 **Data Analytics Essentials - Cisco** |
+| 🥇 **Python for Data Science** – IBM | 🥇 **SQL Analytics & Data Engineering - Databricks** |
+| 🥇 **SQL (Advanced)** – HackerRank | 🥇 **Data Visualization using Python - Infosys** |
+| 🥇 **Tableau Fundamentals & Dashboards** – Tableau | 🥇 **Developer & Technology Job Simulation - Accenture UK** |
 | 🥇 **Data Analytics Job Simulation** – Deloitte Australia | 🥇 **Business Analyst – Unqork** |
 
 ---
