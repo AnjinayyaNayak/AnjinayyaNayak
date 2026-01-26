@@ -17,7 +17,7 @@
 <ul>
   <li>🎓 <b>Master’s in Computer Science</b></li>
   <li>📊 Hands-on experience with <b>Power BI, SQL, Python, Excel, Tableau</b></li>
-  <li>🧹 Strong in <b>Data Cleaning, EDA, KPI Tracking, Dashboard Design</b></li>
+  <li>🧹 Strong in <b>Data Cleaning, Exploratory Data Analysis (EDA), Data Reporting & Analysis, and Dashboard Design</b></li>
   <li>📈 Focused on <b>data-driven decision making</b></li>
   <li>🌱 Continuously learning <b>Advanced Analytics & Cloud Data Platforms</b></li>
 </ul>
