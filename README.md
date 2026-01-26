@@ -1,106 +1,129 @@
-# Hi, I'm Anjinayya 👋  
-### 📊 Data Analyst | Business Intelligence | Data Visualization  
+<h1 align="center" style="font-family:Segoe UI, sans-serif;">
+  Hi, I'm <span style="color:#4F46E5;">Anjinayya</span> 👋
+</h1>
 
-🚀 I transform raw data into **clear, actionable insights** using analytics, dashboards, and data storytelling.  
-🎯 Passionate about **Business Analytics, Product Analytics, and BI solutions**.
+<h3 align="center" style="font-weight:500; color:#374151;">
+  📊 Data Analyst | Business Intelligence | Data Visualization
+</h3>
 
----
+<p align="center" style="max-width:800px; margin:auto; font-size:15px;">
+🚀 I transform raw data into <b>clear, actionable insights</b> using analytics, dashboards, and data storytelling.<br>
+🎯 Passionate about <b>Business Analytics, Product Analytics, and BI solutions</b>.
+</p>
 
-## 👨‍💻 About Me
-- 🎓 **Master’s in Computer Science**
-- 📊 Strong hands-on experience with **Power BI, SQL, Python, Excel, Tableau**
-- 🧹 Expertise in **Data Cleaning, EDA, KPI Tracking, and Dashboard Design**
-- 📈 Interested in **data-driven decision making & business insights**
-- 🌱 Continuously learning **Advanced Analytics & Cloud Data Platforms**
+<hr>
 
----
+<h2>👨‍💻 About Me</h2>
+<ul>
+  <li>🎓 <b>Master’s in Computer Science</b></li>
+  <li>📊 Hands-on experience with <b>Power BI, SQL, Python, Excel, Tableau</b></li>
+  <li>🧹 Strong in <b>Data Cleaning, EDA, KPI Tracking, Dashboard Design</b></li>
+  <li>📈 Focused on <b>data-driven decision making</b></li>
+  <li>🌱 Continuously learning <b>Advanced Analytics & Cloud Data Platforms</b></li>
+</ul>
 
-## 🛠️ Technical Skills
+<hr>
 
-### 🐍 Programming & Querying
-- **Python** (Pandas, NumPy, Matplotlib)
-- **SQL** (Advanced queries, joins, CTEs, subqueries)
+<h2>🛠️ Technical Skills</h2>
 
-### 📊 BI & Data Visualization
-- **Power BI** (DAX, Power Query, Interactive Dashboards)
-- **Tableau**
-- **Looker Studio**
+<div style="display:grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap:16px;">
 
-### 🧠 Data Analysis
-- Exploratory Data Analysis (EDA)
-- KPI & Metrics Analysis
-- Trend & Forecast Analysis
-- Data Storytelling
+<div style="border:1px solid #e5e7eb; border-radius:10px; padding:15px;">
+<h4>🐍 Programming & Querying</h4>
+<p>Python (Pandas, NumPy, Matplotlib)<br>
+SQL (Joins, CTEs, Subqueries, Advanced Queries)</p>
+</div>
 
-### 🛢️ Databases
-- MySQL
-- Relational Databases
+<div style="border:1px solid #e5e7eb; border-radius:10px; padding:15px;">
+<h4>📊 BI & Data Visualization</h4>
+<p>Power BI (DAX, Power Query, Dashboards)<br>
+Tableau<br>
+Looker Studio</p>
+</div>
 
-### ⚙️ Tools & Concepts
-- Excel (Advanced formulas, Pivot Tables)
-- Data Cleaning & Validation
-- Reporting & Dashboard Design
-- Business & Product Analytics
+<div style="border:1px solid #e5e7eb; border-radius:10px; padding:15px;">
+<h4>🧠 Data Analysis</h4>
+<p>Exploratory Data Analysis (EDA)<br>
+KPI & Metrics Analysis<br>
+Trend & Forecast Analysis<br>
+Data Storytelling</p>
+</div>
 
----
+<div style="border:1px solid #e5e7eb; border-radius:10px; padding:15px;">
+<h4>🛢️ Databases</h4>
+<p>MySQL<br>
+Relational Databases</p>
+</div>
 
-## 🏆 Certifications
+<div style="border:1px solid #e5e7eb; border-radius:10px; padding:15px;">
+<h4>⚙️ Tools & Concepts</h4>
+<p>Excel (Advanced formulas, Pivot Tables)<br>
+Data Cleaning & Validation<br>
+Reporting & Dashboard Design<br>
+Business & Product Analytics</p>
+</div>
 
-### ⭐ Top / Core Certifications
-- 🥇 **Google Data Analytics Certification** *(Skillshop – Valid 2026–2027)*
-- 🥇 **Databricks Platform Architect** – AWS & Azure *(Databricks Academy)*
-- 🥇 **Python for Data Science** – IBM
-- 🥇 **SQL (Advanced)** – HackerRank
-- 🥇 **Tableau Fundamentals & Dashboards** – Tableau
-- 🥇 **Data Analytics Job Simulation** – Deloitte Australia
+</div>
 
-### 📌 Additional Certifications
-- IBM Data Fundamentals  
-- Cisco Data Analytics Essentials  
-- Databricks SQL Analytics & Data Engineering  
-- Accenture UK Developer & Technology Job Simulation  
-- Infosys Data Visualization using Python  
+<hr>
 
----
+<h2>🏆 Certifications</h2>
 
-## 📊 Featured Projects
+<ul>
+<li><b>Google Data Analytics Certification</b> – Skillshop (2026–2027)</li>
+<li><b>Databricks Platform Architect</b> – AWS & Azure</li>
+<li><b>Python for Data Science</b> – IBM</li>
+<li><b>SQL (Advanced)</b> – HackerRank</li>
+<li><b>Tableau Fundamentals & Dashboards</b> – Tableau</li>
+<li><b>Data Analytics Job Simulation</b> – Deloitte Australia</li>
+</ul>
 
-### 🔷 Bank Customer Churn Analysis | *Power BI*
-- Analyzed churn behavior based on geography, tenure, balance & credit score  
-- Built **interactive dashboards** with KPIs & drill-down insights  
-- Identified key churn drivers to support retention strategies  
+<hr>
 
-### 📈 Netflix Data Insights | *Tableau*
-- Explored global content trends, genres, countries & release timelines  
-- Focused on **data cleaning, date handling & storytelling**  
-- Delivered visually engaging dashboards for trend analysis  
+<h2>📊 Featured Projects</h2>
 
-### 📉 Sales Performance Dashboard | *Looker Studio*
-- Live sales tracking with **revenue, margin & product KPIs**  
-- Integrated Google Sheets for real-time updates  
-- Improved reporting efficiency by **50%**
+<b>🔷 Bank Customer Churn Analysis | Power BI</b>
+<ul>
+<li>Analyzed churn by geography, tenure, balance & credit score</li>
+<li>Built interactive KPI dashboards with drill-down insights</li>
+</ul>
 
-### 📊 HR Analytics Dashboard | *Tableau*
-- Workforce analytics: headcount, job roles, gender diversity, leave trends  
-- Interactive filters for HR decision-making  
-- Enabled data-driven workforce planning  
+<b>📈 Netflix Data Insights | Tableau</b>
+<ul>
+<li>Analyzed global content trends, genres & release timelines</li>
+<li>Focused on data cleaning and visual storytelling</li>
+</ul>
 
-### 🗳️ Bihar 2025 Election Analytics | *Power BI*
-- Analyzed voter turnout, party performance & regional trends  
-- Created election insights dashboards for demographic analysis  
+<b>📉 Sales Performance Dashboard | Looker Studio</b>
+<ul>
+<li>Live tracking of revenue, margins & product KPIs</li>
+<li>Improved reporting efficiency by <b>50%</b></li>
+</ul>
 
-### 🏏 Cricket Career Insights | *Power BI*
-- Visualized player performance metrics & career milestones  
-- Enabled comparative analysis across players and seasons  
+<b>📊 HR Analytics Dashboard | Tableau</b>
+<ul>
+<li>Workforce analysis: headcount, roles, gender & leave trends</li>
+</ul>
 
----
+<b>🗳️ Bihar 2025 Election Analytics | Power BI</b>
+<ul>
+<li>Voter turnout, party performance & regional insights</li>
+</ul>
 
-## 🌐 Connect With Me
-- 💼 **LinkedIn:** https://www.linkedin.com/in/anjinayya-nayak-0936a5340/
-- 🌐 **Portfolio:** https://anjinayya-nayak-ri4qmiw.gamma.site/
-- 🧑‍💻 **HackerRank:** https://www.hackerrank.com/profile/AnjinayyaNayak
-- 📧 **Email:** anjineynyk@gmail.com
+<b>🏏 Cricket Career Insights | Power BI</b>
+<ul>
+<li>Player performance metrics & career comparisons</li>
+</ul>
 
----
+<hr>
 
-⭐ *Always learning. Always improving. Turning data into decisions.*
+<h2>🌐 Connect With Me</h2>
+
+<ul>
+<li>💼 <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/anjinayya-nayak-0936a5340/">Profile</a></li>
+<li>🌐 <b>Portfolio:</b> <a href="https://anjinayya-nayak-ri4qmiw.gamma.site/">Website</a></li>
+<li>🧑‍💻 <b>HackerRank:</b> <a href="https://www.hackerrank.com/profile/AnjinayyaNayak">Profile</a></li>
+<li>📧 <b>Email:</b> anjineynyk@gmail.com</li>
+</ul>
+
+<p align="center"><i>⭐ Always learning. Always improving. Turning data into decisions.</i></p>
