@@ -36,24 +36,15 @@
 
 ---
 
----
-
 ## 🏆 Certifications
 
-### ⭐ Top / Core Certifications
-- 🥇 **Google Data Analytics Certification** *(Skillshop – Valid 2026–2027)*
-- 🥇 **Databricks Platform Architect** – AWS & Azure *(Databricks Academy)*
-- 🥇 **Python for Data Science** – IBM
-- 🥇 **SQL (Advanced)** – HackerRank
-- 🥇 **Tableau Fundamentals & Dashboards** – Tableau
-- 🥇 **Data Analytics Job Simulation** – Deloitte Australia
-
-### 📌 Additional Certifications
-- IBM Data Fundamentals  
-- Cisco Data Analytics Essentials  
-- Databricks SQL Analytics & Data Engineering  
-- Accenture UK Developer & Technology Job Simulation  
-- Infosys Data Visualization using Python  
+### ⭐ Top / Core Certifications                                                                                                              
+- 🥇 **Google Data Analytics Certification** *(Skillshop – Valid 2026–2027)*                         🥇 **IBM Data Fundamentals
+- 🥇 **Databricks Platform Architect** – AWS & Azure *(Databricks Academy)*                          🥇 **Cisco Data Analytics Essentials
+- 🥇 **Python for Data Science** – IBM                                                               🥇 **Databricks SQL Analytics & Data Engineering  
+- 🥇 **SQL (Advanced)** – HackerRank                                                                 🥇 **Infosys Data Visualization using Python
+- 🥇 **Tableau Fundamentals & Dashboards** – Tableau                                                 🥇 **Accenture UK Developer & Technology Job Simulation
+- 🥇 **Data Analytics Job Simulation** – Deloitte Australia                                          🥇 **Business Analyst - Unqork 
 
 ---
 
