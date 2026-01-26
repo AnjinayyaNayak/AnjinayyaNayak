@@ -26,46 +26,100 @@
 
 <h2>🛠️ Technical Skills</h2>
 
-<div style="display:grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap:16px;">
+<table style="border-collapse:collapse; width:100%; text-align:center; font-size:14px;">
+  <thead>
+    <tr style="background-color:#6FC28A; color:white;">
+      <th style="padding:10px; border:1px solid #ddd;">Skills</th>
+      <th style="padding:10px; border:1px solid #ddd;">Beginner</th>
+      <th style="padding:10px; border:1px solid #ddd;">Intermediate</th>
+      <th style="padding:10px; border:1px solid #ddd;">Advanced</th>
+      <th style="padding:10px; border:1px solid #ddd;">Expert</th>
+    </tr>
+  </thead>
 
-<div style="border:1px solid #e5e7eb; border-radius:10px; padding:15px;">
-<h4>🐍 Programming & Querying</h4>
-<p>Python (Pandas, NumPy, Matplotlib)<br>
-SQL (Joins, CTEs, Subqueries, Advanced Queries)</p>
-</div>
+  <tbody>
+    <tr style="background-color:#E9F7EF;">
+      <td style="padding:8px; border:1px solid #ddd; text-align:left;">Python</td>
+      <td></td>
+      <td>✔️</td>
+      <td>✔️</td>
+      <td></td>
+    </tr>
 
-<div style="border:1px solid #e5e7eb; border-radius:10px; padding:15px;">
-<h4>📊 BI & Data Visualization</h4>
-<p>Power BI (DAX, Power Query, Dashboards)<br>
-Tableau<br>
-Looker Studio</p>
-</div>
+    <tr>
+      <td style="padding:8px; border:1px solid #ddd; text-align:left;">SQL</td>
+      <td></td>
+      <td></td>
+      <td>✔️</td>
+      <td>✔️</td>
+    </tr>
 
-<div style="border:1px solid #e5e7eb; border-radius:10px; padding:15px;">
-<h4>🧠 Data Analysis</h4>
-<p>Exploratory Data Analysis (EDA)<br>
-KPI & Metrics Analysis<br>
-Trend & Forecast Analysis<br>
-Data Storytelling</p>
-</div>
+    <tr style="background-color:#E9F7EF;">
+      <td style="padding:8px; border:1px solid #ddd; text-align:left;">Power BI</td>
+      <td></td>
+      <td></td>
+      <td>✔️</td>
+      <td>✔️</td>
+    </tr>
 
-<div style="border:1px solid #e5e7eb; border-radius:10px; padding:15px;">
-<h4>🛢️ Databases</h4>
-<p>MySQL<br>
-Relational Databases</p>
-</div>
+    <tr>
+      <td style="padding:8px; border:1px solid #ddd; text-align:left;">Tableau</td>
+      <td></td>
+      <td>✔️</td>
+      <td>✔️</td>
+      <td></td>
+    </tr>
 
-<div style="border:1px solid #e5e7eb; border-radius:10px; padding:15px;">
-<h4>⚙️ Tools & Concepts</h4>
-<p>Excel (Advanced formulas, Pivot Tables)<br>
-Data Cleaning & Validation<br>
-Reporting & Dashboard Design<br>
-Business & Product Analytics</p>
-</div>
+    <tr style="background-color:#E9F7EF;">
+      <td style="padding:8px; border:1px solid #ddd; text-align:left;">Looker Studio</td>
+      <td></td>
+      <td>✔️</td>
+      <td>✔️</td>
+      <td></td>
+    </tr>
 
-</div>
+    <tr>
+      <td style="padding:8px; border:1px solid #ddd; text-align:left;">Excel</td>
+      <td></td>
+      <td></td>
+      <td>✔️</td>
+      <td>✔️</td>
+    </tr>
 
-<hr>
+    <tr style="background-color:#E9F7EF;">
+      <td style="padding:8px; border:1px solid #ddd; text-align:left;">Data Cleaning & EDA</td>
+      <td></td>
+      <td></td>
+      <td>✔️</td>
+      <td>✔️</td>
+    </tr>
+
+    <tr>
+      <td style="padding:8px; border:1px solid #ddd; text-align:left;">Dashboard Design</td>
+      <td></td>
+      <td></td>
+      <td>✔️</td>
+      <td>✔️</td>
+    </tr>
+
+    <tr style="background-color:#E9F7EF;">
+      <td style="padding:8px; border:1px solid #ddd; text-align:left;">KPI & Business Analytics</td>
+      <td></td>
+      <td></td>
+      <td>✔️</td>
+      <td>✔️</td>
+    </tr>
+
+    <tr>
+      <td style="padding:8px; border:1px solid #ddd; text-align:left;">MySQL</td>
+      <td></td>
+      <td>✔️</td>
+      <td>✔️</td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+
 
 <h2>🏆 Certifications</h2>
 
