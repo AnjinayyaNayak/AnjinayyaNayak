@@ -62,7 +62,7 @@
       <td>✔️</td>
     </tr>
 
-    <tr>
+  <tr>
       <td style="padding:8px; border:1px solid #ddd; text-align:left;">Tableau</td>
       <td></td>
       <td>✔️</td>
