@@ -45,7 +45,7 @@
 | 🥇 **Databricks Platform Architect** – Databricks Academy | 🥇 **Data Analytics Essentials - Cisco** |
 | 🥇 **Python for Data Science** – IBM | 🥇 **SQL Analytics & Data Engineering - Databricks** |
 | 🥇 **SQL (Advanced)** – HackerRank | 🥇 **Data Visualization using Python - Infosys** |
-| 🥇 **Tableau Fundamentals & Dashboards** – Tableau | 🥇 **Developer & Technology Job Simulation - Accenture UK** |
+| 🥇 **Tableau Fundamentals & Dashboards** – Tableau | 🥇 **Developer & Technology - Accenture UK** |
 | 🥇 **Data Analytics Job Simulation** – Deloitte Australia | 🥇 **Business Analyst – Unqork** |
 
 ---
