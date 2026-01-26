@@ -35,63 +35,53 @@
 |  | Data Storytelling |  |  |  |
 
 
-<h2>🏆 Certifications</h2>
+### 📌 Additional Certifications
+- IBM Data Fundamentals  
+- Cisco Data Analytics Essentials  
+- Databricks SQL Analytics & Data Engineering  
+- Accenture UK Developer & Technology Job Simulation  
+- Infosys Data Visualization using Python  
 
-<ul>
-<li><b>Google Data Analytics Certification</b> – Skillshop (2026–2027)</li>
-<li><b>Databricks Platform Architect</b> – AWS & Azure</li>
-<li><b>Python for Data Science</b> – IBM</li>
-<li><b>SQL (Advanced)</b> – HackerRank</li>
-<li><b>Tableau Fundamentals & Dashboards</b> – Tableau</li>
-<li><b>Data Analytics Job Simulation</b> – Deloitte Australia</li>
-</ul>
+---
 
-<hr>
+## 📊 Featured Projects
 
-<h2>📊 Featured Projects</h2>
+### 🔷 Bank Customer Churn Analysis | *Power BI*
+- Analyzed churn behavior based on geography, tenure, balance & credit score  
+- Built **interactive dashboards** with KPIs & drill-down insights  
+- Identified key churn drivers to support retention strategies  
 
-<b>🔷 Bank Customer Churn Analysis | Power BI</b>
-<ul>
-<li>Analyzed churn by geography, tenure, balance & credit score</li>
-<li>Built interactive KPI dashboards with drill-down insights</li>
-</ul>
+### 📈 Netflix Data Insights | *Tableau*
+- Explored global content trends, genres, countries & release timelines  
+- Focused on **data cleaning, date handling & storytelling**  
+- Delivered visually engaging dashboards for trend analysis  
 
-<b>📈 Netflix Data Insights | Tableau</b>
-<ul>
-<li>Analyzed global content trends, genres & release timelines</li>
-<li>Focused on data cleaning and visual storytelling</li>
-</ul>
+### 📉 Sales Performance Dashboard | *Looker Studio*
+- Live sales tracking with **revenue, margin & product KPIs**  
+- Integrated Google Sheets for real-time updates  
+- Improved reporting efficiency by **50%**
 
-<b>📉 Sales Performance Dashboard | Looker Studio</b>
-<ul>
-<li>Live tracking of revenue, margins & product KPIs</li>
-<li>Improved reporting efficiency by <b>50%</b></li>
-</ul>
+### 📊 HR Analytics Dashboard | *Tableau*
+- Workforce analytics: headcount, job roles, gender diversity, leave trends  
+- Interactive filters for HR decision-making  
+- Enabled data-driven workforce planning  
 
-<b>📊 HR Analytics Dashboard | Tableau</b>
-<ul>
-<li>Workforce analysis: headcount, roles, gender & leave trends</li>
-</ul>
+### 🗳️ Bihar 2025 Election Analytics | *Power BI*
+- Analyzed voter turnout, party performance & regional trends  
+- Created election insights dashboards for demographic analysis  
 
-<b>🗳️ Bihar 2025 Election Analytics | Power BI</b>
-<ul>
-<li>Voter turnout, party performance & regional insights</li>
-</ul>
+### 🏏 Cricket Career Insights | *Power BI*
+- Visualized player performance metrics & career milestones  
+- Enabled comparative analysis across players and seasons  
 
-<b>🏏 Cricket Career Insights | Power BI</b>
-<ul>
-<li>Player performance metrics & career comparisons</li>
-</ul>
+---
 
-<hr>
+## 🌐 Connect With Me
+- 💼 **LinkedIn:** https://www.linkedin.com/in/anjinayya-nayak-0936a5340/
+- 🌐 **Portfolio:** https://anjinayya-nayak-ri4qmiw.gamma.site/
+- 🧑‍💻 **HackerRank:** https://www.hackerrank.com/profile/AnjinayyaNayak
+- 📧 **Email:** anjineynyk@gmail.com
 
-<h2>🌐 Connect With Me</h2>
+---
 
-<ul>
-<li>💼 <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/anjinayya-nayak-0936a5340/">Profile</a></li>
-<li>🌐 <b>Portfolio:</b> <a href="https://anjinayya-nayak-ri4qmiw.gamma.site/">Website</a></li>
-<li>🧑‍💻 <b>HackerRank:</b> <a href="https://www.hackerrank.com/profile/AnjinayyaNayak">Profile</a></li>
-<li>📧 <b>Email:</b> anjineynyk@gmail.com</li>
-</ul>
-
-<p align="center"><i>⭐ Always learning. Always improving. Turning data into decisions.</i></p>
+⭐ *Always learning. Always improving. Turning data into decisions.*
