@@ -37,12 +37,11 @@
 
 <br>
 
-```
-📊 Passionate about turning raw data into clear business stories
-🔍 Strong in Data Cleaning, EDA, KPI Reporting & Dashboard Design
-🤝 Bridging the gap between data and decision-makers
-🏆 31 Certifications  |  7 Projects  |  50+ HackerRank Challenges
-```
+- 📊 Passionate about turning raw data into **clear, actionable business stories**
+- 🔍 Strong in **Data Cleaning, EDA, KPI Reporting & Dashboard Design**
+- 🤝 Bridging the gap between **data and decision-makers**
+- 🏆 **31 Certifications** &nbsp;|&nbsp; **7 Projects** &nbsp;|&nbsp; **50+ HackerRank Challenges**
+- 🌱 Currently exploring **Generative AI for Analytics & Databricks ecosystem**
 
 ---
 
