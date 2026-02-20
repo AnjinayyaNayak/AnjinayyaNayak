@@ -27,23 +27,22 @@
 
 ## 👨‍💼 About Me
 
-<table>
-  <tr>
-    <td>
-      <img src="https://img.shields.io/badge/Location-Bengaluru%2C%20Karnataka-FF5722?style=flat-square&logo=googlemaps&logoColor=white"/>
-      &nbsp;
-      <img src="https://img.shields.io/badge/Education-M.Sc.%20Computer%20Science-2EC866?style=flat-square&logo=graduation-cap&logoColor=white"/>
-    </td>
-  </tr>
-</table>
+<div align="center">
 
-> 🚀 Hands-on experience with **Power BI, SQL, Python, Tableau, Looker Studio & Databricks** — transforming complex datasets into clear, actionable business insights.
+| 📍 Bengaluru, Karnataka | 🎓 M.Sc. Computer Science | 💼 Open to Opportunities |
+|:---:|:---:|:---:|
+| Gulbarga University | Class of 2022 | Full-time / Internship |
 
-| 🎯 What I Do | 🌱 Currently Learning | ⚡ Fun Fact |
-|---|---|---|
-| Build interactive dashboards & BI reports | Advanced Analytics & Cloud Data Platforms | 50+ HackerRank challenges solved! |
-| Data cleaning, EDA & trend analysis | Generative AI for Data & Analytics | 31 certifications & counting 📜 |
-| Business & Product Analytics solutions | Azure & AWS Databricks ecosystem | 7 real-world projects shipped 🚀 |
+</div>
+
+<br>
+
+```
+📊 Passionate about turning raw data into clear business stories
+🔍 Strong in Data Cleaning, EDA, KPI Reporting & Dashboard Design
+🤝 Bridging the gap between data and decision-makers
+🏆 31 Certifications  |  7 Projects  |  50+ HackerRank Challenges
+```
 
 ---
 
