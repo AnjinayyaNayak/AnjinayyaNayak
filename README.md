@@ -19,26 +19,33 @@
   </a>
 </p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=anjinayya-nayak&color=6366F1&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=AnjinayyaNayak&color=6366F1&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
 ---
 
-## 🧑‍💼 About Me
+## 👨‍💼 About Me
 
-```python
-analyst = {
-    "name"        : "Anjinayya Nayak",
-    "role"        : "Data Analyst | BI Developer",
-    "education"   : "M.Sc. Computer Science – Gulbarga University",
-    "location"    : "Bengaluru, Karnataka 🇮🇳",
-    "skills"      : ["Power BI", "SQL", "Python", "Tableau", "Looker Studio", "Databricks"],
-    "focus"       : ["Business Analytics", "Product Analytics", "BI Solutions"],
-    "currently"   : "Building dashboards that turn data into decisions 📊",
-    "learning"    : "Advanced Analytics & Cloud Data Platforms ☁️",
-}
-```
+<table>
+  <tr>
+    <td>
+      <img src="https://img.shields.io/badge/Role-Data%20Analyst%20%7C%20BI%20Developer-6366F1?style=flat-square&logoColor=white"/>
+      &nbsp;
+      <img src="https://img.shields.io/badge/Location-Bengaluru%2C%20Karnataka-FF5722?style=flat-square&logo=googlemaps&logoColor=white"/>
+      &nbsp;
+      <img src="https://img.shields.io/badge/Education-M.Sc.%20Computer%20Science-2EC866?style=flat-square&logo=graduation-cap&logoColor=white"/>
+    </td>
+  </tr>
+</table>
+
+> 🚀 **Data Analyst** with hands-on experience in **Power BI, SQL, Python, Tableau, Looker Studio & Databricks** — transforming complex datasets into clear, actionable business insights.
+
+| 🎯 What I Do | 🌱 Currently Learning | ⚡ Fun Fact |
+|---|---|---|
+| Build interactive dashboards & BI reports | Advanced Analytics & Cloud Data Platforms | 50+ HackerRank challenges solved! |
+| Data cleaning, EDA & trend analysis | Generative AI for Data & Analytics | 31 certifications & counting 📜 |
+| Business & Product Analytics solutions | Azure & AWS Databricks ecosystem | 7 real-world projects shipped 🚀 |
 
 ---
 
@@ -154,8 +161,8 @@ analyst = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=anjinayya-nayak&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=anjinayya-nayak&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=FF6B6B&currStreakLabel=6366F1" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=AnjinayyaNayak&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AnjinayyaNayak&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=FF6B6B&currStreakLabel=6366F1" width="48%"/>
 
 </div>
 
