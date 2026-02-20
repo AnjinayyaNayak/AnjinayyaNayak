@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Anjinayya%20Nayak&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Power%20BI%20%7C%20SQL%20%7C%20Python%20%7C%20Tableau%20%7C%20Looker%20Studio%20%7C%20Databricks&descAlignY=55&descSize=16" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=Turning+Raw+Data+into+Actionable+Insights+%F0%9F%9A%80;Power+BI+%7C+Tableau+%7C+Looker+Studio+%7C+Databricks;SQL+%7C+Python+%7C+Pandas+%7C+NumPy+%7C+Matplotlib;Building+Dashboards+that+Drive+Decisions+%F0%9F%93%8A;Always+Learning.+Always+Growing.+%F0%9F%8C%B1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=Turning+Raw+Data+into+Actionable+Insights+%F0%9F%9A%80;Building+Dashboards+that+Drive+Decisions+%F0%9F%93%8A;Always+Learning.+Always+Growing.+%F0%9F%8C%B1)](https://git.io/typing-svg)
 
 <p>
   <a href="https://www.linkedin.com/in/anjinayya-nayak-0936a5340/">
