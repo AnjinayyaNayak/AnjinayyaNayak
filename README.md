@@ -6,19 +6,16 @@
 
 <p>
   <a href="https://www.linkedin.com/in/anjinayya-nayak-0936a5340/">
-    <img height="35" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  &nbsp;
   <a href="https://anjinayya-nayak-ri4qmiw.gamma.site/">
-    <img height="35" src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=githubpages&logoColor=white&labelColor=FF6B6B"/>
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
-  &nbsp;
   <a href="https://www.hackerrank.com/profile/AnjinayyaNayak">
-    <img height="35" src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black&labelColor=00EA64"/>
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
   </a>
-  &nbsp;
   <a href="mailto:anjineynyk@gmail.com">
-    <img height="35" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
@@ -56,7 +53,8 @@
 
 **🗄️ Databases & Querying**
 
-[![My Skills](https://skillicons.dev/icons?i=mysql,databricks&theme=dark)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=mysql,sqlite&theme=dark)](https://skillicons.dev)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 
@@ -69,14 +67,14 @@
 
 **🐍 Programming & Libraries**
 
-[![My Skills](https://skillicons.dev/icons?i=python,jupyter&theme=dark)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=python,jupyter&theme=dark)](https://skillicons.dev)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 
 **🧰 Tools & Productivity**
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,git,github&theme=dark)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=vscode,git,github&theme=dark)](https://skillicons.dev)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
 
