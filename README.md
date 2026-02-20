@@ -37,11 +37,23 @@
 
 <br>
 
-- 📊 Passionate about turning raw data into **clear, actionable business stories**
-- 🔍 Strong in **Data Cleaning, EDA, KPI Reporting & Dashboard Design**
-- 🤝 Bridging the gap between **data and decision-makers**
-- 🏆 **31 Certifications** &nbsp;|&nbsp; **7 Projects** &nbsp;|&nbsp; **50+ HackerRank Challenges**
-- 🌱 Currently exploring **Generative AI for Analytics & Databricks ecosystem**
+<div align="center">
+
+*"I don't just analyze data — I translate it into decisions that matter."*
+
+</div>
+
+<br>
+
+<div align="center">
+
+| 🎯 Expertise | 🛠️ Core Skills | 🌱 Exploring |
+|:---|:---|:---|
+| Business Intelligence & Reporting | Power BI · Tableau · Looker Studio | Generative AI for Analytics |
+| Data Cleaning & Transformation | SQL · Python · Pandas | Databricks & Cloud Platforms |
+| KPI Dashboards & Visual Storytelling | Excel · NumPy · Matplotlib | Advanced Data Engineering |
+
+</div>
 
 ---
 
