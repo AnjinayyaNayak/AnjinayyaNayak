@@ -1,42 +1,140 @@
-<h1 align="" style="font-family:Segoe UI, sans-serif;">
-  Hi, I'm <span style="color:#4F46E5;">Anjinayya</span> 👋
-</h1>
+<div align="center">
 
-<h3 align="" style="font-weight:500; color:#374151;">
-  📊 Data Analyst | Business Intelligence | Data Visualization
-</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Anjinayya%20Nayak&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Data%20Analyst%20%7C%20BI%20Developer%20%7C%20Data%20Visualization%20Expert&descAlignY=55&descSize=16" width="100%"/>
 
-<p align="" style="max-width:800px; margin:auto; font-size:15px;">
-🚀 I transform raw data into <b>clear, actionable insights</b> using analytics, dashboards, and data storytelling.<br>
-🎯 Passionate about <b>Business Analytics, Product Analytics, and BI solutions</b>.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=Transforming+Raw+Data+into+Actionable+Insights+%F0%9F%9A%80;Power+BI+%7C+SQL+%7C+Python+%7C+Tableau+%7C+Looker+Studio;Always+Learning.+Always+Improving.+%F0%9F%8E%AF)](https://git.io/typing-svg)
+
+<p>
+  <a href="https://www.linkedin.com/in/anjinayya-nayak-0936a5340/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://anjinayya-nayak-ri4qmiw.gamma.site/">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+  <a href="https://www.hackerrank.com/profile/AnjinayyaNayak">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+  </a>
+  <a href="mailto:anjineynyk@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
-<hr>
+![Profile Views](https://komarev.com/ghpvc/?username=anjinayya-nayak&color=6366F1&style=for-the-badge&label=PROFILE+VIEWS)
 
-<h2>👨‍💻 About Me</h2>
-<ul>
-  <li>🎓 <b>Master’s in Computer Science</b></li>
-  <li>📊 Hands-on experience with <b>Power BI, SQL, Python, Excel, Tableau</b></li>
-  <li>🧹 Strong in <b>Data Cleaning, Exploratory Data Analysis (EDA), Data Reporting & Analysis, and Dashboard Design</b></li>
-  <li>📈 Focused on <b>data-driven decision making</b></li>
-  <li>🌱 Continuously learning <b>Advanced Analytics & Cloud Data Platforms</b></li>
-</ul>
-
-<hr>
-
-## 🛠️ Technical Skills
-
-| Databases & Querying | Data Analysis | BI & Visualization | Programming | Tools |
-|---------------------|--------------|-------------------|-------------|-------|
-| MySQL | Exploratory Data Analysis (EDA) | Power BI | Python | Excel |
-| SQL | Data Cleaning | Tableau | Java | Pandas |
-| Relational Databases | KPI & Metrics Analysis | Looker Studio |  | NumPy |
-| Databricks SQL | Trend Analysis |  |  | Power Query |
-|  | Data Storytelling |  |  | Databricks |
-
-
+</div>
 
 ---
+
+## 🧑‍💼 About Me
+
+```python
+analyst = {
+    "name"        : "Anjinayya Nayak",
+    "role"        : "Data Analyst | BI Developer",
+    "education"   : "M.Sc. Computer Science – Gulbarga University",
+    "location"    : "Bengaluru, Karnataka 🇮🇳",
+    "skills"      : ["Power BI", "SQL", "Python", "Tableau", "Looker Studio", "Databricks"],
+    "focus"       : ["Business Analytics", "Product Analytics", "BI Solutions"],
+    "currently"   : "Building dashboards that turn data into decisions 📊",
+    "learning"    : "Advanced Analytics & Cloud Data Platforms ☁️",
+}
+```
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### 📦 Databases & Querying
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+
+### 📊 BI & Visualization
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white)
+
+### 💻 Programming & Tools
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
+
+### ☁️ Cloud & Platforms
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+</div>
+
+---
+
+## 📊 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏦 Bank Customer Churn Analysis</h3>
+      <img src="https://img.shields.io/badge/Tool-Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+      <p>Analyzed churn behavior using geography, tenure, balance & credit score. Built interactive KPI dashboards with drill-down insights to identify key retention drivers.</p>
+      <b>📌 Key Impact:</b> Identified top churn segments with actionable recommendations
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎬 Netflix Data Insights</h3>
+      <img src="https://img.shields.io/badge/Tool-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white"/>
+      <p>Explored global content trends across genres, countries & release timelines. Focused on data cleaning, date handling & visual storytelling.</p>
+      <b>📌 Key Impact:</b> Revealed content distribution patterns across 190+ countries
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📈 Sales Performance Dashboard</h3>
+      <img src="https://img.shields.io/badge/Tool-Looker_Studio-4285F4?style=flat-square&logo=google&logoColor=white"/>
+      <p>Live sales tracking with revenue, margin & product KPIs. Integrated Google Sheets for real-time updates.</p>
+      <b>📌 Key Impact:</b> Improved reporting efficiency by <b>50%</b>
+    </td>
+    <td width="50%" valign="top">
+      <h3>👥 HR Analytics Dashboard</h3>
+      <img src="https://img.shields.io/badge/Tool-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white"/>
+      <p>Workforce analytics covering headcount, job roles, gender diversity & leave trends with interactive filters for HR decision-making.</p>
+      <b>📌 Key Impact:</b> Enabled data-driven workforce planning
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🗳️ Bihar 2025 Election Analytics</h3>
+      <img src="https://img.shields.io/badge/Tool-Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+      <p>Analyzed voter turnout, party performance & regional trends. Created election insights dashboards for demographic analysis.</p>
+      <b>📌 Key Impact:</b> Visualized 200+ constituency-level results
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛒 Amazon Product Sales Report</h3>
+      <img src="https://img.shields.io/badge/Tool-Looker_Studio-4285F4?style=flat-square&logo=google&logoColor=white"/>
+      <p>Interactive dashboard analyzing Amazon sales by order status, category & customer location with geographic & trend visualizations.</p>
+      <b>📌 Key Impact:</b> Clear KPIs for stakeholder sales review
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏏 Cricket Career Insights</h3>
+      <img src="https://img.shields.io/badge/Tool-Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+      <p>Visualized player performance metrics — runs, matches, centuries & career milestones with opponent-wise comparative analysis.</p>
+      <b>📌 Key Impact:</b> Career trend analysis across multiple seasons
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏷️ More Projects Coming Soon...</h3>
+      <img src="https://img.shields.io/badge/Status-In_Progress-6366F1?style=flat-square"/>
+      <p>Currently working on advanced analytics projects involving <b>Databricks, Python, and cloud BI platforms</b>.</p>
+      <b>📌 Stay tuned for updates!</b>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## 🏆 Certifications
 
 | | |
@@ -52,44 +150,21 @@
 
 ---
 
-## 📊 Featured Projects
+## 📈 GitHub Stats
 
-### 🔷 Bank Customer Churn Analysis | *Power BI*
-- Analyzed churn behavior based on geography, tenure, balance & credit score  
-- Built **interactive dashboards** with KPIs & drill-down insights  
-- Identified key churn drivers to support retention strategies  
+<div align="center">
 
-### 📈 Netflix Data Insights | *Tableau*
-- Explored global content trends, genres, countries & release timelines  
-- Focused on **data cleaning, date handling & storytelling**  
-- Delivered visually engaging dashboards for trend analysis  
+<img src="https://github-readme-stats.vercel.app/api?username=anjinayya-nayak&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=anjinayya-nayak&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=FF6B6B&currStreakLabel=6366F1" width="48%"/>
 
-### 📉 Sales Performance Dashboard | *Looker Studio*
-- Live sales tracking with **revenue, margin & product KPIs**  
-- Integrated Google Sheets for real-time updates  
-- Improved reporting efficiency by **50%**
-
-### 📊 HR Analytics Dashboard | *Tableau*
-- Workforce analytics: headcount, job roles, gender diversity, leave trends  
-- Interactive filters for HR decision-making  
-- Enabled data-driven workforce planning  
-
-### 🗳️ Bihar 2025 Election Analytics | *Power BI*
-- Analyzed voter turnout, party performance & regional trends  
-- Created election insights dashboards for demographic analysis  
-
-### 🏏 Cricket Career Insights | *Power BI*
-- Visualized player performance metrics & career milestones  
-- Enabled comparative analysis across players and seasons  
+</div>
 
 ---
 
-## 🌐 Connect With Me
-- 💼 **LinkedIn:** https://www.linkedin.com/in/anjinayya-nayak-0936a5340/
-- 🌐 **Portfolio:** https://anjinayya-nayak-ri4qmiw.gamma.site/
-- 🧑‍💻 **HackerRank:** https://www.hackerrank.com/profile/AnjinayyaNayak
-- 📧 **Email:** anjineynyk@gmail.com
+<div align="center">
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" width="100%"/>
 
-⭐ *Always learning. Always improving. Turning data into decisions.*
+⭐ **Always Learning. Always Improving. Turning Data into Decisions.**
+
+</div>
