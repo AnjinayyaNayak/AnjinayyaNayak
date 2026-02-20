@@ -41,12 +41,14 @@
 
 | | |
 |---|---|
-| 🥇 **Google Data Analytics Certification** - Google Skillshop | 🥇 **Data Fundamentals - IBM** |
-| 🥇 **Databricks Platform Architect** – Databricks Academy | 🥇 **Data Analytics Essentials - Cisco** |
-| 🥇 **Python for Data Science** – IBM | 🥇 **SQL Analytics & Data Engineering - Databricks** |
-| 🥇 **SQL (Advanced)** – HackerRank | 🥇 **Data Visualization using Python - Infosys** |
-| 🥇 **Tableau Fundamentals & Dashboards** – Tableau | 🥇 **Developer & Technology - Accenture UK** |
-| 🥇 **Data Analytics Job Simulation** – Deloitte Australia | 🥇 **Business Analyst – Unqork** |
+| 🥇 **Google Analytics Certification** – Google Skillshop | 🥇 **AI/BI for Data Analysts** – Databricks Academy |
+| 🥇 **Azure & AWS Databricks Platform Architect** – Databricks | 🥇 **Generative AI Fundamentals** – Databricks Academy |
+| 🥇 **Python for Data Science** – IBM | 🥇 **SQL Analytics & BI on Databricks** – Databricks Academy |
+| 🥇 **SQL (Advanced)** – HackerRank | 🥇 **Data Fundamentals** – IBM |
+| 🥇 **Tableau Fundamentals & Dashboards** – Tableau | 🥇 **Data Analytics Essentials** – Cisco Networking Academy |
+| 🥇 **Data Analytics Job Simulation** – Deloitte Australia | 🥇 **Developer & Technology Job Simulation** – Accenture UK |
+| 🥇 **Artificial Intelligence Fundamentals** – IBM | 🥇 **Data Visualisation using Python** – Infosys Springboard |
+| 🥇 **Business Analyst** – Unqork | 🥇 **Databricks Fundamentals** – Databricks Academy |
 
 ---
 
