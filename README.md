@@ -176,16 +176,20 @@
 
 </div>
 
+<div align="center">
+
 | | |
 |---|---|
-| 🥇 **Google Analytics Certification** – Google | 🥇 **AI/BI for Data Analysts** – Databricks |
-| 🥇 **Azure & AWS Databricks Platform Architect** – Databricks | 🥇 **Generative AI Fundamentals** – Databricks |
-| 🥇 **Python for Data Science** – IBM | 🥇 **SQL Analytics & BI on Databricks** – Databricks |
+| 🥇 **Google Analytics Certification** – Google Skillshop | 🥇 **AI/BI for Data Analysts** – Databricks Academy |
+| 🥇 **Azure & AWS Databricks Platform Architect** – Databricks | 🥇 **Generative AI Fundamentals** – Databricks Academy |
+| 🥇 **Python for Data Science** – IBM | 🥇 **SQL Analytics & BI on Databricks** – Databricks Academy |
 | 🥇 **SQL (Advanced)** – HackerRank | 🥇 **Data Fundamentals** – IBM |
-| 🥇 **Tableau Fundamentals & Dashboards** – Tableau | 🥇 **Data Analytics Essentials** – CISCO |
-| 🥇 **Data Analytics** – Deloitte Australia | 🥇 **Developer & Technology** – Accenture UK |
-| 🥇 **Artificial Intelligence Fundamentals** – IBM | 🥇 **Data Visualisation using Python** – Infosys |
-| 🥇 **Business Analyst** – Unqork | 🥇 **Databricks Fundamentals** – Databricks |
+| 🥇 **Tableau Fundamentals & Dashboards** – Tableau | 🥇 **Data Analytics Essentials** – Cisco Networking Academy |
+| 🥇 **Data Analytics Job Simulation** – Deloitte Australia | 🥇 **Developer & Technology Job Simulation** – Accenture UK |
+| 🥇 **Artificial Intelligence Fundamentals** – IBM | 🥇 **Data Visualisation using Python** – Infosys Springboard |
+| 🥇 **Business Analyst** – Unqork | 🥇 **Databricks Fundamentals** – Databricks Academy |
+
+</div>
 
 ---
 
