@@ -178,13 +178,13 @@
 
 | | |
 |---|---|
-| 🥇 **Google Analytics Certification** – Google Skillshop | 🥇 **AI/BI for Data Analysts** – Databricks Academy |
-| 🥇 **Azure & AWS Databricks Platform Architect** – Databricks | 🥇 **Generative AI Fundamentals** – Databricks Academy |
-| 🥇 **Python for Data Science** – IBM | 🥇 **SQL Analytics & BI on Databricks** – Databricks Academy |
+| 🥇 **Google Analytics Certification** – Google | 🥇 **AI/BI for Data Analysts** – Databricks |
+| 🥇 **Azure & AWS Databricks Platform Architect** – Databricks | 🥇 **Generative AI Fundamentals** – Databricks |
+| 🥇 **Python for Data Science** – IBM | 🥇 **SQL Analytics & BI on Databricks** – Databricks |
 | 🥇 **SQL (Advanced)** – HackerRank | 🥇 **Data Fundamentals** – IBM |
 | 🥇 **Tableau Fundamentals & Dashboards** – Tableau | 🥇 **Data Analytics Essentials** – Cisco Networking Academy |
 | 🥇 **Data Analytics Job Simulation** – Deloitte Australia | 🥇 **Developer & Technology Job Simulation** – Accenture UK |
-| 🥇 **Artificial Intelligence Fundamentals** – IBM | 🥇 **Data Visualisation using Python** – Infosys Springboard |
+| 🥇 **Artificial Intelligence Fundamentals** – IBM | 🥇 **Data Visualisation using Python** – Infosys |
 | 🥇 **Business Analyst** – Unqork | 🥇 **Databricks Fundamentals** – Databricks Academy |
 
 ---
@@ -202,6 +202,8 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnjinayyaNayak&theme=tokyonight&hide_border=true&background=0D1117&ring=00D4AA&fire=FF6B6B&currStreakLabel=00D4AA" width="100%"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnjinayyaNayak&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4AA&langs_count=6" width="100%"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AnjinayyaNayak&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D4AA&line=00D4AA&point=FF6B6B&area=true&area_color=00D4AA" width="100%"/>
 
 </div>
 
