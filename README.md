@@ -202,6 +202,31 @@
 
 </div>
 
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnjinayyaNayak&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&langs_count=6" width="38%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AnjinayyaNayak&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6366F1&line=6366F1&point=FF6B6B" width="58%"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnjinayyaNayak&theme=tokyonight" width="98%"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AnjinayyaNayak&theme=tokyonight" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AnjinayyaNayak&theme=tokyonight" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AnjinayyaNayak&theme=tokyonight&utcOffset=5.5" width="32%"/>
+
+</div>
+
 ---
 
 <div align="center">
