@@ -182,10 +182,10 @@
 | 🥇 **Azure & AWS Databricks Platform Architect** – Databricks | 🥇 **Generative AI Fundamentals** – Databricks |
 | 🥇 **Python for Data Science** – IBM | 🥇 **SQL Analytics & BI on Databricks** – Databricks |
 | 🥇 **SQL (Advanced)** – HackerRank | 🥇 **Data Fundamentals** – IBM |
-| 🥇 **Tableau Fundamentals & Dashboards** – Tableau | 🥇 **Data Analytics Essentials** – Cisco Networking Academy |
-| 🥇 **Data Analytics Job Simulation** – Deloitte Australia | 🥇 **Developer & Technology Job Simulation** – Accenture UK |
+| 🥇 **Tableau Fundamentals & Dashboards** – Tableau | 🥇 **Data Analytics Essentials** – CISCO |
+| 🥇 **Data Analytics** – Deloitte Australia | 🥇 **Developer & Technology** – Accenture UK |
 | 🥇 **Artificial Intelligence Fundamentals** – IBM | 🥇 **Data Visualisation using Python** – Infosys |
-| 🥇 **Business Analyst** – Unqork | 🥇 **Databricks Fundamentals** – Databricks Academy |
+| 🥇 **Business Analyst** – Unqork | 🥇 **Databricks Fundamentals** – Databricks |
 
 ---
 
