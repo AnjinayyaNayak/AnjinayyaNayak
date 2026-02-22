@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=0,2,8,16&height=180&section=header&text=Anjinayya%20Nayak&fontSize=42&fontColor=fff&animation=blink&fontAlignY=40&desc=Power%20BI%20%7C%20SQL%20%7C%20Python%20%7C%20Tableau%20%7C%20Looker%20Studio%20%7C%20Databricks&descAlignY=60&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=egg&color=gradient&customColorList=0,2,8,16&height=180&section=header&text=Anjinayya%20Nayak&fontSize=42&fontColor=fff&animation=scaleIn&fontAlignY=40&desc=Power%20BI%20%7C%20SQL%20%7C%20Python%20%7C%20Tableau%20%7C%20Looker%20Studio%20%7C%20Databricks&descAlignY=60&descSize=16" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=Turning+Raw+Data+into+Actionable+Insights+%F0%9F%9A%80;Power+BI+%7C+Tableau+%7C+Looker+Studio+%7C+Databricks;SQL+%7C+Python+%7C+Pandas+%7C+NumPy+%7C+Matplotlib;Building+Dashboards+that+Drive+Decisions+%F0%9F%93%8A;Always+Learning.+Always+Growing.+%F0%9F%8C%B1)](https://git.io/typing-svg)
 
@@ -215,7 +215,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=0,2,8,16&height=100&section=footer&animation=blink" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=egg&color=gradient&customColorList=0,2,8,16&height=100&section=footer&animation=scaleIn" width="100%"/>
 
 ⭐ **Always Learning. Always Improving. Turning Data into Decisions.**
 
