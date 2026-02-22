@@ -54,7 +54,7 @@
 | 🎯 Expertise | 🛠️ Core Skills | 🌱 Exploring |
 |:---|:---|:---|
 | Business Intelligence & Reporting | Power BI · Tableau · Looker Studio | Generative AI for Analytics |
-| Data Cleaning & Transformation | SQL · Python · Pandas | Databricks & Cloud Platforms |
+| Data Cleaning & Transformation | SQL · Python · Pandas | Databricks |
 | KPI Dashboards & Visual Storytelling | Excel · NumPy · Matplotlib | Advanced Data Engineering |
 
 </div>
