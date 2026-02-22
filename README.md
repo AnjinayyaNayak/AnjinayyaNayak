@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Anjinayya%20Nayak&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Power%20BI%20%7C%20SQL%20%7C%20Python%20%7C%20Tableau%20%7C%20Looker%20Studio%20%7C%20Databricks&descAlignY=55&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=0,2,8,16&height=180&section=header&text=Anjinayya%20Nayak&fontSize=42&fontColor=fff&animation=blink&fontAlignY=40&desc=Power%20BI%20%7C%20SQL%20%7C%20Python%20%7C%20Tableau%20%7C%20Looker%20Studio%20%7C%20Databricks&descAlignY=60&descSize=16" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=Turning+Raw+Data+into+Actionable+Insights+%F0%9F%9A%80;Power+BI+%7C+Tableau+%7C+Looker+Studio+%7C+Databricks;SQL+%7C+Python+%7C+Pandas+%7C+NumPy+%7C+Matplotlib;Building+Dashboards+that+Drive+Decisions+%F0%9F%93%8A;Always+Learning.+Always+Growing.+%F0%9F%8C%B1)](https://git.io/typing-svg)
 
@@ -54,7 +54,7 @@
 | 🎯 Expertise | 🛠️ Core Skills | 🌱 Exploring |
 |:---|:---|:---|
 | Business Intelligence & Reporting | Power BI · Tableau · Looker Studio | Generative AI for Analytics |
-| Data Cleaning & Transformation | SQL · Python · Pandas | Databricks |
+| Data Cleaning & Transformation | SQL · Python · Pandas | Databricks & Cloud Platforms |
 | KPI Dashboards & Visual Storytelling | Excel · NumPy · Matplotlib | Advanced Data Engineering |
 
 </div>
@@ -81,6 +81,8 @@
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 ![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=flat-square&logo=looker&logoColor=white)
+![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=flat-square&logo=googleanalytics&logoColor=white)
+
 **🐍 Programming & Libraries**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -92,6 +94,8 @@
 **🧰 Tools & Productivity**
 
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=flat-square&logo=googlesheets&logoColor=white)
 
@@ -211,7 +215,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=0,2,8,16&height=100&section=footer&animation=blink" width="100%"/>
 
 ⭐ **Always Learning. Always Improving. Turning Data into Decisions.**
 
