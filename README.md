@@ -195,7 +195,15 @@
 
 <div align="center">
 
-## 📈 GitHub Stats
+## 🏅 Badges
+
+| | | | |
+|:---:|:---:|:---:|:---:|
+| <img src="https://images.credly.com/size/680x680/images/9e38eff5-2348-4f2e-b226-fa0150731390/build-visualizations-2048.png" width="80" height="80"/> | <img src="https://images.credly.com/size/680x680/images/43eeb4e7-7fb0-4a15-8572-88f82bccc5bf/image.png" width="80" height="80"/> | <img src="https://images.credly.com/size/680x680/images/0b35f7f4-5661-4c33-813a-909cf657422a/image.png" width="80" height="80"/> | <img src="https://images.credly.com/size/680x680/images/b981ce06-65f0-48a6-9105-df9876a081a8/start-tableau-2048.png" width="80" height="80"/> |
+| <img src="https://images.credly.com/size/680x680/images/b40db465-587f-45eb-a854-af8630a630e7/blob" width="80" height="80"/> | <img src="https://images.credly.com/size/680x680/images/efbd82da-0bd5-49cf-8fbd-d759ba0570a3/blob" width="80" height="80"/> | <img src="https://images.credly.com/size/680x680/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png" width="80" height="80"/> | <img src="https://images.credly.com/size/680x680/images/edaf0f19-2df0-4759-8871-7b1b44687f53/image.png" width="80" height="80"/> |
+| <img src="https://images.credly.com/size/680x680/images/82b908e1-fdcd-4785-9d32-97f11ccbcf08/image.png" width="80" height="80"/> | <img src="https://images.credly.com/size/680x680/images/1fdfeaeb-e61c-4450-bdfe-a07bd4e715df/image.png" width="80" height="80"/> | <img src="https://images.credly.com/size/680x680/images/e2d12302-10f9-40d4-8ff1-066a7008b61d/blob" width="80" height="80"/> | <img src="https://images.credly.com/size/680x680/images/b38a42e0-dc58-4ce2-b6c0-28d978e8aaad/image.png" width="80" height="80"/> |
+
+</div>
 
 </div>
 
