@@ -35,7 +35,7 @@
 
 | 📍 Bengaluru, Karnataka | 🎓 M.Sc. Computer Science | 💼 Open to Opportunities |
 |:---:|:---:|:---:|
-| Gulbarga University | Class of 2022 | Full-time / Internship |
+| Gulbarga University | Class of 2023 | Full-time / Internship |
 
 </div>
 
