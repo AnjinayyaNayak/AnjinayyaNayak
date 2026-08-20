@@ -6,9 +6,9 @@
 
 <div align="center">
 
-<sub>ANJINAYYA NAYAK</sub>
+# ANJINAYYA NAYAK
 
-# Data Analyst · SQL Developer · Power BI Developer
+### Data Analyst · SQL Developer · Power BI Developer
 
 Turning raw data into reliable queries, meaningful dashboards, and actionable insights.
 
@@ -23,7 +23,7 @@ Turning raw data into reliable queries, meaningful dashboards, and actionable in
 
 <div align="center">
 
-`SQL` &nbsp;→&nbsp; `ETL` &nbsp;→&nbsp; `DATABRICKS` &nbsp;→&nbsp; `POWER BI` &nbsp;→&nbsp; `INSIGHTS`
+`SQL` &nbsp;→&nbsp; `ETL` &nbsp;→&nbsp; `POWER BI` &nbsp;→&nbsp; `INSIGHTS`
 
 </div>
 
@@ -50,8 +50,6 @@ SQL Server / T-SQL
    Power BI / DAX
       │
     ETL / SSIS
-      │
-   Databricks
       │
      Python
 ```
@@ -99,21 +97,14 @@ Wrote and optimized T-SQL queries in SQL Server for data extraction, transformat
 </td>
 </tr>
 <tr>
-<td width="33%" valign="top">
-
-**Modern Data Platform**
-
-`Databricks SQL` `Databricks` `Lakehouse` `Medallion Architecture` `Apache Spark`
-
-</td>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 **Analytics & Scripting**
 
 `Python` `Pandas` `NumPy` `Excel`
 
 </td>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 **Tools**
 
@@ -132,8 +123,6 @@ Wrote and optimized T-SQL queries in SQL Server for data extraction, transformat
 **SOURCES** `SQL Server` `MySQL` `Excel`
 &nbsp;↓&nbsp;
 **TRANSFORM** `T-SQL` `SSIS` `ETL`
-&nbsp;↓&nbsp;
-**PLATFORM** `Databricks SQL` `Lakehouse`
 &nbsp;↓&nbsp;
 **BI** `Power BI` `DAX` `Tableau`
 &nbsp;↓&nbsp;
@@ -233,34 +222,11 @@ Insight → Career trends across multiple seasons.
 <tr>
 <td width="25%" align="center">
 
-**SQL Analytics & BI**
-on Databricks
-<sub>Databricks Academy</sub>
-
-</td>
-<td width="25%" align="center">
-
-**Databricks**
-Fundamentals
-<sub>Databricks Academy</sub>
-
-</td>
-<td width="25%" align="center">
-
-**Generative AI**
-Fundamentals
-<sub>Databricks Academy</sub>
-
-</td>
-<td width="25%" align="center">
-
 **SQL**
 (Advanced)
 <sub>HackerRank</sub>
 
 </td>
-</tr>
-<tr>
 <td width="25%" align="center">
 
 **Data**
@@ -282,9 +248,6 @@ Data Science
 <sub>IBM</sub>
 
 </td>
-<td width="25%" align="center">
-
-</td>
 </tr>
 </table>
 
@@ -292,7 +255,6 @@ Data Science
 <summary><b>Other Credentials</b></summary>
 <br>
 
-- Azure & AWS Databricks Platform Architect — Databricks Academy
 - SQL & Relational Database — IBM
 - Artificial Intelligence Fundamentals — IBM
 - Tableau Fundamentals & Dashboards — Tableau
