@@ -1,48 +1,35 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 150" width="800" height="150">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 130" width="100%" height="130">
   <defs>
-    <linearGradient id="blobGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#4F46E5;stop-opacity:1" />
-      <stop offset="50%" style="stop-color:#06B6D4;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#8B5CF6;stop-opacity:1" />
+    <linearGradient id="bgF" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#141B26"/>
+      <stop offset="100%" stop-color="#0B0F17"/>
     </linearGradient>
-    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#0D1117;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#161B22;stop-opacity:1" />
-    </linearGradient>
-    <filter id="blur">
-      <feGaussianBlur stdDeviation="6"/>
-    </filter>
+    <pattern id="gridF" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#1E2A3A" stroke-width="1"/>
+    </pattern>
+    <marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#38BDF8"/>
+    </marker>
   </defs>
 
-  <!-- Background -->
-  <rect width="800" height="150" fill="url(#bgGrad)"/>
+  <rect width="1000" height="130" fill="url(#bgF)"/>
+  <rect width="1000" height="130" fill="url(#gridF)" opacity="0.4"/>
 
-  <!-- Blob glow -->
-  <path filter="url(#blur)" fill="url(#blobGrad)" opacity="0.35">
-    <animate attributeName="d" dur="6s" repeatCount="indefinite"
-      values="
-        M400,20 C460,5 520,20 545,55 C570,90 550,130 495,140 C440,150 360,150 305,138 C250,126 245,85 268,50 C291,15 340,35 400,20Z;
-        M400,15 C465,0 525,25 548,62 C571,99 548,138 490,145 C432,152 350,145 298,130 C246,115 242,72 268,42 C294,12 335,30 400,15Z;
-        M400,22 C458,8 515,18 542,52 C569,86 552,128 498,142 C444,156 355,148 302,134 C249,120 248,80 272,48 C296,16 342,36 400,22Z;
-        M400,20 C460,5 520,20 545,55 C570,90 550,130 495,140 C440,150 360,150 305,138 C250,126 245,85 268,50 C291,15 340,35 400,20Z"
-    />
-  </path>
+  <!-- data flow line -->
+  <line x1="255" y1="45" x2="495" y2="45" stroke="#38BDF8" stroke-width="1.5" marker-end="url(#arrow)"/>
+  <line x1="505" y1="45" x2="745" y2="45" stroke="#A78BFA" stroke-width="1.5" marker-end="url(#arrow)"/>
 
-  <!-- Main Blob -->
-  <path fill="url(#blobGrad)" opacity="0.9">
-    <animate attributeName="d" dur="6s" repeatCount="indefinite"
-      values="
-        M400,20 C460,5 520,20 545,55 C570,90 550,130 495,140 C440,150 360,150 305,138 C250,126 245,85 268,50 C291,15 340,35 400,20Z;
-        M400,15 C465,0 525,25 548,62 C571,99 548,138 490,145 C432,152 350,145 298,130 C246,115 242,72 268,42 C294,12 335,30 400,15Z;
-        M400,22 C458,8 515,18 542,52 C569,86 552,128 498,142 C444,156 355,148 302,134 C249,120 248,80 272,48 C296,16 342,36 400,22Z;
-        M400,20 C460,5 520,20 545,55 C570,90 550,130 495,140 C440,150 360,150 305,138 C250,126 245,85 268,50 C291,15 340,35 400,20Z"
-    />
-  </path>
+  <circle cx="250" cy="45" r="5" fill="#38BDF8"/>
+  <circle cx="500" cy="45" r="5" fill="#22D3EE"/>
+  <circle cx="750" cy="45" r="5" fill="#A78BFA"/>
 
-  <!-- Footer text -->
-  <text x="400" y="82" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif"
-    font-size="15" font-weight="bold" fill="white" opacity="1">
-    ⭐ Always Learning. Always Improving. Turning Data into Decisions.
-  </text>
+  <text x="250" y="72" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif"
+        font-size="12" font-weight="600" fill="#8B98AC" letter-spacing="2">DATA</text>
+  <text x="500" y="72" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif"
+        font-size="12" font-weight="600" fill="#8B98AC" letter-spacing="2">INSIGHT</text>
+  <text x="750" y="72" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif"
+        font-size="12" font-weight="600" fill="#8B98AC" letter-spacing="2">DECISION</text>
 
+  <text x="500" y="108" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif"
+        font-size="13" fill="#CBD5E1">Building with data. Learning continuously.</text>
 </svg>
