@@ -5,7 +5,7 @@
 <br>
 
 <div align="center">
-
+      
 # ANJINAYYA NAYAK
 
 ### Data Analyst · SQL Developer · Power BI Developer
