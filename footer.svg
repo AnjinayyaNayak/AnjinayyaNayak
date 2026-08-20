@@ -1,35 +1,41 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 130" width="100%" height="130">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 120" width="100%" height="120">
   <defs>
     <linearGradient id="bgF" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#141B26"/>
-      <stop offset="100%" stop-color="#0B0F17"/>
+      <stop offset="0%" stop-color="#161B22"/>
+      <stop offset="100%" stop-color="#0D1117"/>
     </linearGradient>
-    <pattern id="gridF" width="40" height="40" patternUnits="userSpaceOnUse">
-      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#1E2A3A" stroke-width="1"/>
+    <linearGradient id="lineF" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38BDF8"/>
+      <stop offset="50%" stop-color="#6366F1"/>
+      <stop offset="100%" stop-color="#A78BFA"/>
+    </linearGradient>
+    <pattern id="gridF" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M 36 0 L 0 0 0 36" fill="none" stroke="#1F2937" stroke-width="1"/>
     </pattern>
-    <marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
-      <path d="M 0 0 L 10 5 L 0 10 z" fill="#38BDF8"/>
-    </marker>
   </defs>
 
-  <rect width="1000" height="130" fill="url(#bgF)"/>
-  <rect width="1000" height="130" fill="url(#gridF)" opacity="0.4"/>
+  <rect width="1000" height="120" fill="url(#bgF)"/>
+  <rect width="1000" height="120" fill="url(#gridF)" opacity="0.35"/>
 
-  <!-- data flow line -->
-  <line x1="255" y1="45" x2="495" y2="45" stroke="#38BDF8" stroke-width="1.5" marker-end="url(#arrow)"/>
-  <line x1="505" y1="45" x2="745" y2="45" stroke="#A78BFA" stroke-width="1.5" marker-end="url(#arrow)"/>
+  <line x1="130" y1="42" x2="870" y2="42" stroke="url(#lineF)" stroke-width="1.2" opacity="0.7"/>
 
-  <circle cx="250" cy="45" r="5" fill="#38BDF8"/>
-  <circle cx="500" cy="45" r="5" fill="#22D3EE"/>
-  <circle cx="750" cy="45" r="5" fill="#A78BFA"/>
+  <g font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="10" fill="#7C8AA0" letter-spacing="1.5">
+    <circle cx="130" cy="42" r="4" fill="#38BDF8"/>
+    <text x="130" y="65" text-anchor="middle">DATA</text>
 
-  <text x="250" y="72" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif"
-        font-size="12" font-weight="600" fill="#8B98AC" letter-spacing="2">DATA</text>
-  <text x="500" y="72" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif"
-        font-size="12" font-weight="600" fill="#8B98AC" letter-spacing="2">INSIGHT</text>
-  <text x="750" y="72" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif"
-        font-size="12" font-weight="600" fill="#8B98AC" letter-spacing="2">DECISION</text>
+    <circle cx="315" cy="42" r="4" fill="#38BDF8"/>
+    <text x="315" y="65" text-anchor="middle">QUERY</text>
 
-  <text x="500" y="108" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif"
-        font-size="13" fill="#CBD5E1">Building with data. Learning continuously.</text>
+    <circle cx="500" cy="42" r="4" fill="#6366F1"/>
+    <text x="500" y="65" text-anchor="middle">TRANSFORM</text>
+
+    <circle cx="685" cy="42" r="4" fill="#A78BFA"/>
+    <text x="685" y="65" text-anchor="middle">VISUALIZE</text>
+
+    <circle cx="870" cy="42" r="4" fill="#A78BFA"/>
+    <text x="870" y="65" text-anchor="middle">INSIGHT</text>
+  </g>
+
+  <text x="500" y="98" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif"
+        font-size="12" fill="#CBD5E1">Building with data. Learning continuously.</text>
 </svg>
