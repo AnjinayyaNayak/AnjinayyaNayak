@@ -1,54 +1,73 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 300" width="800" height="300">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 220" width="100%" height="220">
   <defs>
-    <linearGradient id="blobGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#4F46E5;stop-opacity:1" />
-      <stop offset="50%" style="stop-color:#06B6D4;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#8B5CF6;stop-opacity:1" />
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0B0F17"/>
+      <stop offset="100%" stop-color="#141B26"/>
     </linearGradient>
-    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#0D1117;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#161B22;stop-opacity:1" />
+    <linearGradient id="barGrad" x1="0%" y1="100%" x2="0%" y2="0%">
+      <stop offset="0%" stop-color="#38BDF8"/>
+      <stop offset="100%" stop-color="#22D3EE"/>
     </linearGradient>
-    <filter id="blur">
-      <feGaussianBlur stdDeviation="8"/>
-    </filter>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#1E2A3A" stroke-width="1"/>
+    </pattern>
   </defs>
 
-  <!-- Background -->
-  <rect width="800" height="300" fill="url(#bgGrad)"/>
+  <rect width="1000" height="220" fill="url(#bg)"/>
+  <rect width="1000" height="220" fill="url(#grid)" opacity="0.5"/>
 
-  <!-- Blob glow behind -->
-  <path filter="url(#blur)" fill="url(#blobGrad)" opacity="0.4">
-    <animate attributeName="d" dur="6s" repeatCount="indefinite"
-      values="
-        M400,80 C460,60 520,80 540,130 C560,180 540,240 490,260 C440,280 360,280 310,255 C260,230 250,170 270,120 C290,70 340,100 400,80Z;
-        M400,70 C470,55 530,90 545,145 C560,200 530,255 475,268 C420,281 345,270 295,240 C245,210 245,155 268,105 C291,55 330,85 400,70Z;
-        M400,85 C455,65 510,75 535,125 C560,175 545,245 495,262 C445,279 355,275 305,248 C255,221 252,162 275,115 C298,68 345,105 400,85Z;
-        M400,80 C460,60 520,80 540,130 C560,180 540,240 490,260 C440,280 360,280 310,255 C260,230 250,170 270,120 C290,70 340,100 400,80Z"
-    />
-  </path>
+  <!-- left network of data nodes -->
+  <g opacity="0.55">
+    <line x1="60" y1="60" x2="130" y2="40" stroke="#38BDF8" stroke-width="1"/>
+    <line x1="130" y1="40" x2="150" y2="100" stroke="#38BDF8" stroke-width="1"/>
+    <line x1="60" y1="60" x2="90" y2="130" stroke="#38BDF8" stroke-width="1"/>
+    <line x1="90" y1="130" x2="150" y2="100" stroke="#38BDF8" stroke-width="1"/>
+    <line x1="90" y1="130" x2="70" y2="180" stroke="#A78BFA" stroke-width="1"/>
+    <circle cx="60" cy="60" r="3.5" fill="#38BDF8"/>
+    <circle cx="130" cy="40" r="3" fill="#22D3EE"/>
+    <circle cx="150" cy="100" r="3" fill="#38BDF8"/>
+    <circle cx="90" cy="130" r="3.5" fill="#A78BFA"/>
+    <circle cx="70" cy="180" r="2.5" fill="#38BDF8"/>
+  </g>
 
-  <!-- Main Blob -->
-  <path fill="url(#blobGrad)" opacity="0.95">
-    <animate attributeName="d" dur="6s" repeatCount="indefinite"
-      values="
-        M400,80 C460,60 520,80 540,130 C560,180 540,240 490,260 C440,280 360,280 310,255 C260,230 250,170 270,120 C290,70 340,100 400,80Z;
-        M400,70 C470,55 530,90 545,145 C560,200 530,255 475,268 C420,281 345,270 295,240 C245,210 245,155 268,105 C291,55 330,85 400,70Z;
-        M400,85 C455,65 510,75 535,125 C560,175 545,245 495,262 C445,279 355,275 305,248 C255,221 252,162 275,115 C298,68 345,105 400,85Z;
-        M400,80 C460,60 520,80 540,130 C560,180 540,240 490,260 C440,280 360,280 310,255 C260,230 250,170 270,120 C290,70 340,100 400,80Z"
-    />
-  </path>
+  <!-- right network of data nodes -->
+  <g opacity="0.55">
+    <line x1="940" y1="55" x2="870" y2="35" stroke="#38BDF8" stroke-width="1"/>
+    <line x1="870" y1="35" x2="850" y2="95" stroke="#38BDF8" stroke-width="1"/>
+    <line x1="940" y1="55" x2="910" y2="125" stroke="#38BDF8" stroke-width="1"/>
+    <line x1="910" y1="125" x2="850" y2="95" stroke="#38BDF8" stroke-width="1"/>
+    <line x1="910" y1="125" x2="930" y2="175" stroke="#A78BFA" stroke-width="1"/>
+    <circle cx="940" cy="55" r="3.5" fill="#38BDF8"/>
+    <circle cx="870" cy="35" r="3" fill="#22D3EE"/>
+    <circle cx="850" cy="95" r="3" fill="#38BDF8"/>
+    <circle cx="910" cy="125" r="3.5" fill="#A78BFA"/>
+    <circle cx="930" cy="175" r="2.5" fill="#38BDF8"/>
+  </g>
 
-  <!-- Name Text on blob -->
-  <text x="400" y="158" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif"
-    font-size="32" font-weight="bold" fill="white" opacity="1">
-    Anjinayya Nayak
-  </text>
+  <!-- small bar chart glyph, bottom right -->
+  <g opacity="0.85">
+    <rect x="895" y="178" width="10" height="20" fill="url(#barGrad)"/>
+    <rect x="910" y="165" width="10" height="33" fill="url(#barGrad)"/>
+    <rect x="925" y="150" width="10" height="48" fill="url(#barGrad)"/>
+    <rect x="940" y="172" width="10" height="26" fill="url(#barGrad)"/>
+  </g>
 
-  <!-- Sub text on blob -->
-  <text x="400" y="192" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif"
-    font-size="13" fill="white" opacity="0.9">
-    Power BI | SQL | Python | Tableau | Looker Studio
-  </text>
+  <!-- small bar chart glyph, top left -->
+  <g opacity="0.7">
+    <rect x="55" y="20" width="8" height="14" fill="url(#barGrad)"/>
+    <rect x="67" y="12" width="8" height="22" fill="url(#barGrad)"/>
+    <rect x="79" y="18" width="8" height="16" fill="url(#barGrad)"/>
+  </g>
 
+  <!-- core content -->
+  <text x="500" y="98" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif"
+        font-size="38" font-weight="700" fill="#F1F5F9" letter-spacing="1.5">ANJINAYYA NAYAK</text>
+
+  <text x="500" y="133" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif"
+        font-size="16" font-weight="600" fill="#38BDF8" letter-spacing="2">DATA ANALYST  |  SQL DEVELOPER  |  POWER BI DEVELOPER</text>
+
+  <line x1="420" y1="150" x2="580" y2="150" stroke="#2A3546" stroke-width="1"/>
+
+  <text x="500" y="175" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif"
+        font-size="12.5" fill="#8B98AC" letter-spacing="1.5">SQL SERVER  •  T-SQL  •  POWER BI  •  SSIS  •  DATABRICKS  •  PYTHON</text>
 </svg>
